@@ -46,6 +46,3 @@ jupyter notebook
 Have an idea or improvement? Feel free to **fork** and create a **pull request**!
 
 ---
-
-## 📜 License
-This project is open-source under the **MIT License**.
